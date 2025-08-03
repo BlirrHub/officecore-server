@@ -1,0 +1,6 @@
+@officecore_server_HostAddress = http://localhost:5075
+
+GET {{officecore_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
